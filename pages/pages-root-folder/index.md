@@ -43,11 +43,11 @@ permalink: /index.html
 #
 homepage: true
 noindex: false
-image:
-  title: "something-for-everyone.png"
+title: "Welcome to The Wriggley Farm!"
+# image:
+#   title: "something-for-everyone.png"
+og_image: "/images/something-for-everyone.png"
 ---
-
-# Welcome to The Wriggley Farm!
 
 We’re excited to have you join us! At The Wriggley Farm, we’re dedicated to sharing practical, expert advice on all things gardening. From mastering worm composting and nurturing your plants to tackling pesky plant pests, our blog offers clear, authoritative guidance to help you succeed. 
 
@@ -57,11 +57,13 @@ Whether you're a seasoned gardener or a DIY enthusiast, we’re here to support 
 
 ![Gardener packing the soil, to ensure firm growth](images/something-for-everyone.png)
 
+
 ## Collective Knowledgebase
 
 We’re also eager to hear from you! If you have insights or tips about growing plants in Singapore, we’d love to share your knowledge with our community. This initiative not only aims to benefit everyone but also helps us expand our own understanding of local gardening challenges and solutions. Let’s cultivate a garden of shared wisdom!
 
 ![Family of garden lovers discussing on growing plants](images/collective-knowledgebake.png)
+
 
 ## Thank you!
 

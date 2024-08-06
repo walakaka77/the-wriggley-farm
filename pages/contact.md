@@ -5,6 +5,7 @@ meta_title          : "Contact Us on our email thewriggleyfarm@gmail.com"
 subheadline         : "Share your growing journey with us!"
 teaser              : ""
 permalink           : "/contact/"
+meta_description    : "test description"
 ---
 We’d love to hear from you! Whether you have questions, suggestions, or just want to share your gardening experiences, feel free to reach out to us. Your insights and feedback help us grow and improve.
 

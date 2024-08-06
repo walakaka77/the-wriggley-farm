@@ -66,6 +66,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: "About"
+  url: "/about-us/"
+  side: right
+
 - title: "Contact"
   url: "/contact/"
   side: right

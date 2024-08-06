@@ -52,9 +52,17 @@ We’re excited to have you join us! At The Wriggley Farm, we’re dedicated to 
 
 Whether you're a seasoned gardener or a DIY enthusiast, we’re here to support you every step of the way. Dive in and let’s grow together! 🌿
 
+![Gardener packing the soil, to ensure firm growth](images/something-for-everyone.png)
+
 ## Collective Knowledgebase
 
 We’re also eager to hear from you! If you have insights or tips about growing plants in Singapore, we’d love to share your knowledge with our community. This initiative not only aims to benefit everyone but also helps us expand our own understanding of local gardening challenges and solutions. Let’s cultivate a garden of shared wisdom!
+
+![Family of garden lovers discussing on growing plants](images/collective-knowledgebake.png)
+
+## Thank you!
+
+We thank you in advance for your contributions, and we look forward to hearing from you. At the very least, we hope this site gives you something you can take in your gardening journey!
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

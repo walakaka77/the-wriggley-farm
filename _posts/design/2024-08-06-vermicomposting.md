@@ -44,8 +44,8 @@ For those gardening in tropical climates, blue worms (Perionyx excavatus) are a 
 
 * **Facebook Group**: Check out the Singapore Vermicomposting - Worm Composting group for local sellers.
 * **Carousell**: Find blue earthworms for composting at Carousell. There are many individual suppliers distributing composting worms.
-* **The Garden Store**: Visit [The Garden Store](https://www.thegardenstore.sg/Earthworms) for earthworm supplies.
-* **Werms Inc**: Explore their [Vermicomposting Starter Kit](https://wermsinc.com/product/vermi-composting-starter-kit/) for all your composting needs.
+* **The Garden Store**: Visit [The Garden Store](https://www.thegardenstore.sg/Earthworms){:rel="nofollow"} for earthworm supplies.
+* **Werms Inc**: Explore their [Vermicomposting Starter Kit](https://wermsinc.com/product/vermi-composting-starter-kit/){:rel="nofollow"} for all your composting needs.
 
 
 ## Setting Up Your Vermicomposting Bin

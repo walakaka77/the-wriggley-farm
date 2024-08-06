@@ -1,4 +1,4 @@
-- title: Start
+- title: Welcome
   url: "/"
   side: left
 
@@ -65,10 +65,6 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
 
 - title: "Contact"
   url: "/contact/"

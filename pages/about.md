@@ -9,6 +9,8 @@ permalink           : "/about-us/"
 
 We’re a couple who are passionate about gardening and composting. We've been gardening and worming ever since our University days starting in 2013! Here’s a little more about us:
 
+![image of The Wriggley Farm Team](../../images/the-wriggley-farm-team.jpeg)
+
 One of us is an animal behavior expert with a deep understanding of how animals interact with their environment. Her expertise helps us create a balanced and nurturing space for our beloved dog, Storm, as well as for our plants.
 
 The other guy is a software delivery specialist with a keen eye for detail and problem-solving. His analytical skills are invaluable in managing our gardening projects and composting efforts, ensuring everything runs smoothly.

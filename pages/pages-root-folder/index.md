@@ -42,6 +42,9 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+noindex: false
+image:
+  title: "something-for-everyone.png"
 ---
 
 # Welcome to The Wriggley Farm!

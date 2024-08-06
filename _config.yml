@@ -14,14 +14,14 @@ title: 'The Wriggley Farm'
 slogan: 'The collective knowledge of garden enthusiasts!'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'The Wriggley Farm is a Singapore home-based passion project aimed to consolidate the collective knowledge of all urban farmers out there!'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: 'Created with love by The Wriggley Farm Team (including Storm)'
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Shafik Walakaka
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -31,7 +31,7 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+#improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -113,7 +113,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Shafik Walakaka     # Default author for pages
   -
     scope:
       path: ''
@@ -122,7 +122,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Shafik Walakaka     # Default author for posts
 
 
 
@@ -145,7 +145,7 @@ defaults:
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
 google_site_verification        : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
+# bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification      : ''
 # alexa_verify_id               : ''
 
@@ -158,17 +158,17 @@ bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32                        : 'favicon-32x32.png'
-touch-icon-192x192                   : 'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed : 'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed : 'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed : 'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed : 'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed : 'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed   : 'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed   : 'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed         : 'apple-touch-icon-precomposed.png'
-msapplication_tileimage              : 'msapplication_tileimage.png'               # Size 144x144
+favicon-32x32                        : 'Wriggley Farm Logo.png'
+touch-icon-192x192                   : 'Wriggley Farm Logo.png'
+apple-touch-icon-180x180-precomposed : 'Wriggley Farm Logo.png'
+apple-touch-icon-152x152-precomposed : 'Wriggley Farm Logo.png'
+apple-touch-icon-144x144-precomposed : 'Wriggley Farm Logo.png'
+apple-touch-icon-120x120-precomposed : 'Wriggley Farm Logo.png'
+apple-touch-icon-114x114-precomposed : 'Wriggley Farm Logo.png'
+apple-touch-icon-76x76-precomposed   : 'Wriggley Farm Logo.png'
+apple-touch-icon-72x72-precomposed   : 'Wriggley Farm Logo.png'
+apple-touch-icon-precomposed         : 'Wriggley Farm Logo.png'
+msapplication_tileimage              : 'Wriggley Farm Logo.png'               # Size 144x144
 msapplication_tilecolor              : '#fabb00'
 
 
@@ -178,7 +178,7 @@ msapplication_tilecolor              : '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image                             : 'Wriggley Farm Logo.png'
 og_locale                            : 'en_EN'
 og_type                              : 'website'
 
@@ -192,9 +192,9 @@ og_type                              : 'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+# socialmedia:
+#     twitter   : phlow
+#     facebook  : phlow.media
 
 
 #        ____  _
@@ -230,7 +230,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+google_analytics_tracking_id: G-V430V3NYG3
 
 
 

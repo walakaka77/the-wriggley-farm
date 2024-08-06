@@ -15,6 +15,8 @@ header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
+noindex: true
+sitemap: false
 ---
 It's so easy to do. Just define in front matter your image.
 <!--more-->

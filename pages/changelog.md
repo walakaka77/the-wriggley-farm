@@ -7,6 +7,8 @@ teaser: "History and changelog of Feeling Responsive Theme"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/changelog/"
+noindex: true
+sitemap: false
 ---
 2023-08-04 // Version 1.93
 :   Thanks to the help of [Remco Schrijver](https://github.com/RemcoSchrijver), who migrated the sass code so that no warnings are shown when building, the build process is clean again.

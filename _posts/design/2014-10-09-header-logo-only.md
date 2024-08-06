@@ -9,6 +9,8 @@ tags:
     - design
     - background color
     - header
+noindex: true
+sitemap: false
 ---
 No front matter code needed.
 <!--more-->

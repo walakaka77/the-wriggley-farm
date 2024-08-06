@@ -9,6 +9,8 @@ tags:
     - blog
     - content
     - post
+noindex: true
+sitemap: false
 ---
 <!--more-->
 

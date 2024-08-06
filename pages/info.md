@@ -6,6 +6,8 @@ teaser: "Since years I am programming and designing websites. I love to work wit
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
+noindex: true
+sitemap: false
 ---
 ...and learn at the same time.
 

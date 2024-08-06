@@ -7,6 +7,8 @@ categories:
     - design
 header:
    image_fullwidth: header_unsplash_leaf.jpg
+noindex: true
+sitemap: false
 ---
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->

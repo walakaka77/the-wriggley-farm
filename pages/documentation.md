@@ -6,6 +6,8 @@ teaser: "The documentation is a work in progress..."
 permalink: "/documentation/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
+noindex: true
+sitemap: false
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">

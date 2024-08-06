@@ -17,6 +17,8 @@ image:
 categories:
     - design
     - typography
+noindex: true
+sitemap: false
 ---
 <!--more-->
 

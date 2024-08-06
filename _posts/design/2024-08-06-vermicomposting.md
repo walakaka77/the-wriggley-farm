@@ -7,6 +7,7 @@ breadcrumb: true
 categories:
     - vermicomposting
 og_image: "/images/vermicompost.png"
+author: "Shafik Walakaka"
 
 ---
 

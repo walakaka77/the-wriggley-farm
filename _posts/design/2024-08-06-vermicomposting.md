@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: Discover the Wonders of Vermicomposting with The Wriggley Farm
+subheadline: Discover the Wonders of Vermicomposting
 title:  "Vermicomposting with The Wriggley Farm"
 teaser: "This article takes you through the basic fundamentals of what is required to start your own vermicomposting journey. Details within each step would be covered in their individual articles."
 breadcrumb: true

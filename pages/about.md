@@ -5,6 +5,7 @@ meta_title          : "Get to know us more, from the sunny town of Singapore!"
 subheadline         : "Get to know us here!"
 teaser              : ""
 permalink           : "/about-us/"
+og_image            : "/images/the-wriggley-farm-team.jpeg"
 ---
 
 We’re a couple who are passionate about gardening and composting. We've been gardening and worming ever since our University days starting in 2013! Here’s a little more about us:

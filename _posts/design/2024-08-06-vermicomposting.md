@@ -6,7 +6,7 @@ teaser: "This article takes you through the basic fundamentals of what is requir
 breadcrumb: true
 categories:
     - vermicomposting
-og_image: "/images/vermicompost.png"
+og_image: "/images/image-vermicompost-smaller-image.png"
 author: "Shafik Walakaka"
 
 ---

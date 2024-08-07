@@ -6,7 +6,7 @@ teaser: "We take you through the 5 common vermicomposting and vermiculture speci
 breadcrumb: true
 categories:
     - vermicomposting
-og_image: "/images/vermicompost.png"
+og_image: "/images/image-vermicompost-smaller-image.png"
 author: "Shafik Walakaka"
 
 

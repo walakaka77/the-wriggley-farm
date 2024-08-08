@@ -10,7 +10,13 @@ og_image: "/images/image-vermicompost-smaller-image.png"
 author: "Shafik Walakaka"
 
 ---
+## **Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
 
+
+## Welcome!
 ![A bunch of blue worms wriggling comfortably in healthy pile of compost](/images/vermicompost.png)
 
 Welcome to The Wriggley Farm community! We’re excited to have you join us on this green journey into the world of vermicomposting. Whether you’re a seasoned gardener or just starting out, vermicomposting is a fantastic way to enrich your soil and reduce waste. Dive in with us and let’s grow together!

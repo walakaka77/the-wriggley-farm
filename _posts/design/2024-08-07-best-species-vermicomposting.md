@@ -12,6 +12,13 @@ author: "Shafik Walakaka"
 
 ---
 
+## **Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+
+## Welcome!
+
 ![Vermicomposting and vermiculture](/images/vermicompost.png)
 
 Welcome to the world of vermicomposting with Wriggley Farm! If you’re looking to enrich your garden and enhance your composting efforts, choosing the right worm species is key. In this guide, we’ll explore various types of worms and how they can support your composting journey. To make it easier to follow, here’s a quick overview of the worm species we’ll cover:

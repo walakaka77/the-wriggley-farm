@@ -1,8 +1,20 @@
-- menu_name: "Services"
+- menu_name: "Quick Links"
+
+- name: "About Us"
+  url: "/about-us"
+  title: "About Us"
 
 - name: "Contact"
   url: "/contact/"
   title: "Contact"
+
+
+
+
+
+# - name: "sitemap.xml"
+#   url: "/sitemap.xml"
+#   title: "Sitemap for Google Webmaster Tools"
 
 # - name: "RSS"
 #   url: "/feed.xml"
@@ -12,6 +24,4 @@
 #   url: "/atom.xml"
 #   title: "Subscribe to Atom Feed"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+

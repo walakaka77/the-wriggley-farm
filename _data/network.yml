@@ -1,4 +1,16 @@
-# - menu_name: "Dankeschön"
+- menu_name: "Terms"
+
+- name: "Privacy Policy"
+  url: "/privacy-policy/"
+  title: "Privacy Policy"
+
+- name: "Website Use Policy"
+  url: "/website-use-policy/"
+  title: "Website Use Policy"
+
+- name: "Editorial Policy"
+  url: "/editorial-policy/"
+  title: "Editorial Policy"
 
 # - name: "Icons by Daniel Bruce"
 #   url: "http://entypo.com/"

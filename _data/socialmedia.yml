@@ -1,7 +1,7 @@
-# - name: GitHub
-#   url: http://github.com/phlow
-#   class: icon-github
-#   title: Code und mehr...
+- name: GitHub
+  url: https://github.com/walakaka77/the-wriggley-farm
+  class: icon-github
+  title: The Wriggley Farm Source Code
 
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia

@@ -2,7 +2,7 @@
 layout: page
 subheadline: My personal checklist for choosing vermiculture bin
 title:  "Choosing the Right Vermiculture Bin: A Comprehensive Guide"
-teaser: "This article takes you through my thought processes when choosing and comparing the different options of vermiculture bins availalbe"
+teaser: "This article takes you through my thought processes when choosing and comparing the different options of vermiculture bins available"
 breadcrumb: true
 categories:
     - vermicomposting

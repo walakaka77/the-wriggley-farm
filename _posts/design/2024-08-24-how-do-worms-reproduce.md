@@ -101,7 +101,7 @@ By understanding this lifecycle, you can better manage your composting system an
 Once the eggs hatch, the young worms, called juveniles, emerge. They are small but already resemble tiny versions of adult earthworms. Initially, they don’t have a clitellum, but as they grow, they develop all the features of adult earthworms, including the clitellum, which is necessary for future reproduction.
 
 
-### How Fast Do Earthworms Reproduce?
+### How Fast Do Earthworms Reproduce? 
 
 The speed at which earthworms reproduce can vary depending on the species. For example, **red wigglers** can reproduce every 60-90 days, while **blue worms** have a similar reproductive rate, laying cocoons every 2-3 months. From my experience with red wigglers during my studies and blue worms while working, their growth rate aligns with what’s mentioned in the literature. Generally, earthworms can reproduce several times a year. Each cocoon can contain multiple eggs, contributing to the growth of the earthworm population.
 

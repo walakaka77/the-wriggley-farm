@@ -45,10 +45,7 @@ Worms rely on their skin for respiration through a process known as cutaneous re
 
 The primary reason worms can’t absorb oxygen directly from air in its gaseous state is that their skin lacks the specialized structures needed for gas exchange in a dry environment. The oxygen in the air is not easily absorbed through a dry, impermeable surface. For the gas exchange to occur effectively, oxygen needs to be in a dissolved state.
 
-**Here’s how it works: **
-
-
-
+**Here's how it works:**
 1. moisture on the worm’s skin creates a thin layer of liquid. 
 2. This layer dissolves the oxygen from the air, turning it into a form that can be easily absorbed through the skin. 
 3. The dissolved oxygen then diffuses through the moist layer and into the worm’s bloodstream. 

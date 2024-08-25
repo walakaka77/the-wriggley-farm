@@ -17,6 +17,8 @@ author: "Shafik Walakaka"
 *  TOC
 {:toc}
 
+## Introduction
+
 Vermicomposting is an efficient, eco-friendly way to turn kitchen scraps into rich, fertile compost, known as worm castings. But to truly benefit from vermicomposting, it’s important to know how to harvest worm castings correctly. This guide will walk you through the process step by step, ensuring you get the most from your worm farm while keeping your worms happy and productive.
 
 

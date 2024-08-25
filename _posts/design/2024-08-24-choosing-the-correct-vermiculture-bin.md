@@ -17,6 +17,8 @@ author: "Shafik Walakaka"
 *  TOC
 {:toc}
 
+## Introduction
+
 Choosing the correct vermiculture bin is a crucial step in starting your worm composting journey. With so many options available, it can feel overwhelming to determine which bin is best suited to your needs. But don’t worry—we’re here to help you navigate the world of vermiculture bins so you can find the perfect setup for your composting goals. Whether you’re a beginner or a seasoned gardener, this guide will walk you through the different types of vermiculture bins and the key considerations for making the right choice.
 
 

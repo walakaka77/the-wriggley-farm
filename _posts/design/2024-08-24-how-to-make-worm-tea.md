@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: All you need to know about worm tea
-title:  "How to make worm tea!"
+title:  "How to make worm tea?"
 teaser: "In this article, we go through how you can make and brew worm tea right in your own back garden"
 breadcrumb: true
 categories:

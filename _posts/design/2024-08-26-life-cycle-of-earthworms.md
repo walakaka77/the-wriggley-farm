@@ -6,7 +6,7 @@ teaser: "Ever wondered regarding the different stages of your worms growth -- re
 breadcrumb: true
 categories:
     - vermicomposting
-og_image: "//images/lifecycle-of-earthworms/image-vermicompost-smaller-image.png"
+og_image: "/images/lifecycle-of-earthworms/image-vermicompost-smaller-image.png"
 author: "Shafik Walakaka"
 
 
@@ -17,6 +17,7 @@ author: "Shafik Walakaka"
 *  TOC
 {:toc}
 
+## Welcome
 
 At Wriggley Farm, we believe that mastering vermicomposting starts with understanding the creatures at the heart of it all: earthworms. Whether you're new to composting or an experienced gardener, knowing the life cycle of these fascinating organisms can make all the difference. In this post, we'll walk you through the life stages of earthworms, share practical tips from our experience, and guide you towards becoming a more effective composter. Let's dig in!
 

@@ -28,7 +28,7 @@ Creating the right environment for your worms is the first step towards a succes
 
 * **Temperature:** Keep your worm bin within the ideal range of 55°F to 77°F (13°C to 25°C). Extreme temperatures can stress your worms, so aim for a comfortable, stable environment.
 * **Moisture Levels:** The bedding should be damp, not soggy—think of it like a well-wrung sponge. Proper moisture ensures that your worms stay happy and active.
-* **Greens and Browns Ratio:** For a balanced diet, mix greens (nitrogen-rich materials like vegetable scraps) with browns (carbon-rich materials like shredded paper). Browns are essential for balancing greens, preventing excess heat, and maintaining the right moisture levels.
+* **Greens and Browns Ratio:** For a balanced diet, [mix greens (nitrogen-rich materials like vegetable scraps)](/vermicomposting/what-do-worms-eat/) with browns (carbon-rich materials like shredded paper). Browns are essential for balancing greens, preventing excess heat, and maintaining the right moisture levels.
 
 
 ## Understanding Worm Bedding and Its Role in Worm Beds
@@ -79,7 +79,7 @@ Selecting the right bedding is a bit like tailoring a suit—it's all about fitt
 
 1. **Type of Bedding and Worm Species:** Different worms have different preferences. For instance, red wrigglers thrive in cooler temperatures, ideally between 55°F and 70°F (13°C to 21°C), while Indian Blue Worms prefer warmer conditions, around 70°F to 85°F (21°C to 29°C). Understanding these preferences helps you choose the best bedding to suit your worms' needs.
 2. **Impact of Your Location:** Your local climate and humidity levels play a significant role. If you live in a humid area, you may need bedding that absorbs excess moisture, whereas in drier climates, materials that retain moisture can be more beneficial.
-3. **Adjusting Bedding Accordingly:** Based on the worm species and your location, adjust your bedding choices:
+3. **Adjusting Bedding Accordingly:** [Based on the worm species](/vermicomposting/best-species-vermicomposting/) and your location, adjust your bedding choices:
     * **Moisture:** Ensure your bedding materials maintain appropriate moisture levels. Use absorbent materials like coconut coir or peat moss in wetter climates and moisture-retaining materials like shredded paper or cardboard in drier areas.
     * **Temperature:** Select bedding that helps maintain the ideal temperature for your worms. Materials like coir and peat moss can aid in temperature regulation by providing insulation and buffering against temperature swings.
     * **Overall Impact:** The right bedding helps manage moisture and temperature, creating a stable environment for your worms to thrive. Experiment and observe how different materials affect your setup, and make adjustments as needed to keep your worms happy and healthy.

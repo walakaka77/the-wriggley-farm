@@ -19,7 +19,7 @@ author: "Shafik Walakaka"
 
 ## Introduction: Essential Guide to Worm Diet & Feeding Habits
 
-Welcome to your journey into the world of worm composting! If you're here, you're likely eager to learn about creating rich, nutrient-dense compost with the help of some hardworking worms. Understanding the right worm diet and feeding habits is key to keeping your compost worms happy and ensuring your vermiculture system runs smoothly. In this guide, we’ll focus on the green scraps essential to a worm’s diet. We’ll delve into the best food for compost worms, explore what worms eat, and uncover the types of organic waste for worms that make for an optimal worm composting diet. While worms do consume their bedding as well, we'll discuss bedding in more detail in a separate article. For now, let’s dig into the worm-friendly foods and the vermicomposting food scraps that your worms love to eat, and discover how to keep them thriving.
+Welcome to your journey into the world of worm composting! If you're here, you're likely eager to learn about creating rich, nutrient-dense compost with the help of some hardworking worms. Understanding the right worm diet and feeding habits is key to keeping your compost worms happy and ensuring your vermiculture system runs smoothly. In this guide, we’ll focus on the green scraps essential to a worm’s diet. We’ll delve into the best food for compost worms, explore what worms eat, and uncover the types of organic waste for worms that make for an optimal worm composting diet. While worms do consume their bedding as well, we'll discuss [worm bedding](/vermicomposting/worm-bedding-materials/) in more detail in a separate article. For now, let’s dig into the worm-friendly foods and the vermicomposting food scraps that your worms love to eat, and discover how to keep them thriving.
 
 
 ## Understanding Green Scraps: How Worms Process Food & Nutrient Cycling
@@ -32,7 +32,7 @@ When we talk about green scraps, we’re referring to fresh, nitrogen-rich mater
 
 ### Carbon-to-Nitrogen Ratio
 
-A successful worm composting system relies on maintaining the right carbon-to-nitrogen ratio. This ratio, ideally between 25:1 and 30:1, ensures that carbon-rich brown materials outweigh nitrogen-rich green materials. Think of it like a balanced diet—just as we need a mix of nutrients, worms need a mix of green and brown scraps. The nitrogen in green scraps supports worm digestion of food scraps and enhances the decomposition process in worm bins. This balance not only benefits the worms' health but also accelerates the nutrient cycling with worms, resulting in rich worm castings that boost your composting efforts.
+A successful worm composting system relies on maintaining the right carbon-to-nitrogen ratio. This ratio, ideally between 25:1 and 30:1, ensures that [carbon-rich brown materials](/vermicomposting/worm-bedding-materials/) outweigh nitrogen-rich green materials. Think of it like a balanced diet—just as we need a mix of nutrients, worms need a mix of green and brown scraps. The nitrogen in green scraps supports worm digestion of food scraps and enhances the decomposition process in worm bins. This balance not only benefits the worms' health but also accelerates the nutrient cycling with worms, resulting in rich worm castings that boost your composting efforts.
 
 Getting this balance right is crucial for optimising the benefits of worms in composting and speeding up the overall composting process. We’ll explore how worms process food and how maintaining the correct carbon-to-nitrogen ratio contributes to creating an ideal environment for your worms in the environmental factors section.
 
@@ -120,7 +120,7 @@ Different types of food can alter these environmental factors. Here’s how to a
 
 ### Managing Bedding Based on Environment
 
-Bedding plays a crucial role in maintaining a healthy worm bin, and how you manage it should depend on your local environment and the species of worms you're raising:
+[Worm bedding](/vermicomposting/worm-bedding-materials/) plays a crucial role in maintaining a healthy [worm bin](/vermicomposting/choosing-the-correct-vermiculture-bin/), and how you manage it should depend on your local environment and the [species of worms](/vermicomposting/best-species-vermicomposting/) you're raising:
 
 
 

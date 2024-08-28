@@ -36,6 +36,8 @@ Let’s delve into the details of each species and find out which ones are best 
 
 Red Wigglers, or Eisenia fetida, are among the most popular worms for composting, and for good reason. They’re renowned for their efficiency in breaking down organic matter and their adaptability to a variety of composting environments.
 
+Check out our guide on [what to feed your worms](/vermicomposting/what-do-worms-eat/) for an optimal worm farm set-up!
+
 ![Red wrigglers](/images/Eisenia fetida (Red Wigglers).png)
 
 * **Common Name:** Red Wigglers
@@ -51,9 +53,11 @@ Red Wigglers thrive in temperatures ranging from 55-77°F (13-25°C), with the i
 
 We’ve personally had success with Red Wigglers in both Brisbane, Australia, and Sheffield, UK. In Brisbane, where temperatures typically range from 50-90°F (10-32°C), Red Wigglers adapted well and continued to efficiently process compost as long as they were kept in shaded areas to avoid excessive heat. In Sheffield, with temperatures ranging from 30-70°F (-1 to 21°C), these worms performed admirably in the warmer months. However, during the winter, when temperatures dropped below 41°F (5°C), we needed to bring them indoors to keep them warm, as they did not survive the cold.
 
+In Brisbane, we actually had our vermicomposting box outdoors, and this was where my personal worm farm journey began! Checkout our learnings on [how to vermicompost outdoors](/vermicomposting/guide-to-outdoors-vermicomposting/) for tips and tricks that we've picked up along the years.
+
 ### **Health and Care** 
 
-While Red Wigglers are generally hardy, they can be susceptible to certain issues such as Red Worm Disease. To prevent this, it’s essential to manage moisture levels carefully and avoid overfeeding. A good way to measure moisture is by ensuring the compost feels like a wrung-out sponge. When you squeeze a handful of compost, there shouldn’t be more than a few drops of water coming out. Additionally, check that there is no leachate—unwanted liquid draining from the bottom of the bin. Leachate is a sign that the compost is too moist and can create an environment unfavourable for the worms.
+While Red Wigglers are generally hardy, they can be susceptible to certain issues such as Red Worm Disease. To prevent this, it’s essential to manage moisture levels carefully and avoid overfeeding. A good way to measure moisture is by ensuring the compost feels like a wrung-out sponge. When you squeeze a handful of compost, there shouldn’t be more than a few drops of water coming out. Additionally, check that there is no leachate—unwanted liquid draining from the bottom of the bin. Leachate, commonly confused for [worm tea](/vermicomposting/how-to-make-worm-tea/), is a sign that the compost is too moist and can create an environment unfavourable for the worms.
 
 Regular monitoring will help you maintain a healthy worm population and prevent issues related to excess moisture.
 
@@ -102,6 +106,8 @@ Regularly check the moisture levels in your compost bin. Aim for a balance where
 
 Eisenia andreii, or Tigers Worms, are known for their adaptability and productivity. They’re a robust choice for various composting setups.
 
+For the curious, check out our guide on [how earthworms reproduce](/vermicomposting/how-do-worms-reproduce/) for juicy, wriggley details!
+
 ![Tiger Worms](/images/Eisenia andreii (Tigers Worms).png)
 
 * **Common Name:** Tiger Worms
@@ -114,7 +120,7 @@ Eisenia andreii, or Tigers Worms, are known for their adaptability and productiv
 
 ### **pH Tolerance** 
 
-Tigers Worms can handle a range of pH levels, making them versatile for different types of composting materials. This tolerance allows you to incorporate a higher proportion of green scraps—such as fruit and vegetable peels, coffee grounds, and fresh grass clippings—into your compost. Green scraps are rich in nitrogen and contribute to a faster decomposition process.
+Tigers Worms can handle a range of pH levels, making them versatile for different types of composting materials. This tolerance allows you to incorporate a higher proportion of green scraps—such as fruit and vegetable peels, coffee grounds, and fresh grass clippings—into your compost. [Green scraps are rich in nitrogen](/vermicomposting/what-do-worms-eat/) and contribute to a faster decomposition process.
 
 
 ### **Managing Behavior** 
@@ -126,7 +132,7 @@ To manage a large population and prevent these issues, regularly monitor the wor
 
 ### **Moisture Considerations** 
 
-Excess moisture can lead to anaerobic conditions, which are harmful to worms. Ensure that the compost bin is well-drained and avoid overwatering to keep moisture levels balanced.
+[Worms require moisture to breathe](/vermicomposting/how-do-worms-breathe/). However, excess moisture can lead to anaerobic conditions, which are harmful to worms. Ensure that the compost bin is well-drained and avoid overwatering to keep moisture levels balanced.
 
 
 ## Lumbricus terrestris (Nightcrawlers) – Excellent for Soil Health
@@ -203,7 +209,7 @@ Understanding these differences can help you choose the best worm species for yo
 
 ## Conclusion: Cultivating a Successful Composting System
 
-Choosing the right worm species is crucial for a successful composting system. For those in Singapore and similar tropical regions, Indian Blue Worms are an excellent choice due to their adaptability to warm, humid conditions. In Australia, where conditions may vary, Red Wigglers are a reliable option thanks to their efficiency and adaptability.
+Choosing the right worm species, alongside [selecting the right worm bin](/vermicomposting/choosing-the-correct-vermiculture-bin/), is crucial for a successful vermicomposting system. For those in Singapore and similar tropical regions, Indian Blue Worms are an excellent choice due to their adaptability to warm, humid conditions. In Australia, where conditions may vary, Red Wigglers are a reliable option thanks to their efficiency and adaptability.
 
 
 ## References and Further Reading

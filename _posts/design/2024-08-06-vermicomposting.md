@@ -37,15 +37,15 @@ Starting a vermicomposting system is easy! Here’s what you’ll need:
 
 
 
-* **Worm Bin**: This can be a store-bought bin or a DIY setup. You can even start small with a compact worm bin if space is limited.
-* **Composting Worms**: For tropical climates like Singapore, blue worms (also known as Perionyx excavatus) are an excellent choice. They thrive in warm, humid conditions and are highly effective at breaking down organic matter.
-* **Bedding Materials**: Think of this as the worms’ home. You can use materials like shredded newspaper, cardboard, or cocopeat.
+* **Worm Bin**: This can be a store-bought bin or a DIY setup. You can even [start small with a compact worm bin](/vermicomposting/choosing-the-correct-vermiculture-bin/) if space is limited.
+* **[Composting Worms](/vermicomposting/best-species-vermicomposting/)**: For tropical climates like Singapore, blue worms (also known as Perionyx excavatus) are an excellent choice. They thrive in warm, humid conditions and are highly effective at breaking down organic matter.
+* **Bedding Materials**: Think of this as the worms’ home. You can use materials like [shredded newspaper, cardboard, or cocopeat for worm bedding](/vermicomposting/worm-bedding-materials/).
 * **Organic Waste**: Fruit and vegetable scraps are perfect for your worm friends.
 
 
 ### Choosing the Right Worms
 
-For those gardening in tropical climates, blue worms (Perionyx excavatus) are a fantastic option. They thrive in warm and humid environments, making them ideal for Singapore’s climate. If you're wondering where to buy earthworms in Singapore, here are some local options:
+For those gardening in tropical climates, [blue worms (Perionyx excavatus)](/vermicomposting/best-species-vermicomposting/) are a fantastic option. They thrive in warm and humid environments, making them ideal for Singapore’s climate. If you're wondering where to buy earthworms in Singapore, here are some local options:
 
 
 
@@ -63,9 +63,9 @@ For those gardening in tropical climates, blue worms (Perionyx excavatus) are a 
 
 
 1. **Prepare the Bin**: If you’re using a store-bought vermicomposting bin, follow the setup instructions. For DIY bins, ensure proper ventilation and drainage.
-2. **Add Bedding**: Fill the bin with your chosen bedding materials. Moisten them slightly to create a comfortable environment for the worms.
+2. **Add Bedding**: Fill the bin with your [chosen bedding materials](/vermicomposting/worm-bedding-materials/). Moisten them slightly to create a comfortable environment for the worms.
 3. **Add Worms**: Gently introduce your blue worms to their new home.
-4. **Feed the Worms**: Start by adding small amounts of kitchen scraps. Remember, worms love a balanced diet of fruit and vegetable scraps but avoid adding meat, dairy, and oily foods.
+4. **Feed the Worms**: Start by adding small amounts of kitchen scraps. Remember, [worms love a balanced diet of fruit and vegetable scraps](/vermicomposting/what-do-worms-eat/) but avoid adding meat, dairy, and oily foods.
 
 
 ### Creating the Ideal Environment
@@ -85,7 +85,7 @@ I remember a time when my wife's vermicompost was too moist, and it led to an un
 
 ### Harvesting Vermicompost
 
-When your bin is filled with rich, dark compost, it’s time to harvest. Simply remove the bottom layers of compost, as the worms usually migrate to the top layers. Leave some of the top layers behind to ensure that the composting process continues smoothly. The harvested vermicompost can be used to enrich your garden soil or potted plants.
+When your bin is filled with rich, dark compost, it’s time to [harvest our worm castings](/vermicomposting/how-harvest-worm-castings/). Simply remove the bottom layers of compost, as the worms usually migrate to the top layers. Leave some of the top layers behind to ensure that the composting process continues smoothly. The harvested vermicompost can be used to enrich your garden soil or potted plants.
 
 
 ## Special Considerations for Singapore
